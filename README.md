@@ -23,4 +23,4 @@ Just want to create a bootable USB without all the hassle:
 
 👇
 
-[Download MeowUSB.app](https://bit.ly/48FXhU2)
+[Download MeowUSB.app](https://dub.sh/0IyRFit)
